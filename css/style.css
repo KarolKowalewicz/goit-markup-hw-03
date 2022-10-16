@@ -210,6 +210,10 @@ ul {
   padding-bottom: 94px;
 }
 
+.img-portfolio {
+  margin: 15px 15px 15px 15px;
+}
+
 .portfolio-space {
   display: inline-block;
   flex-direction: column;
